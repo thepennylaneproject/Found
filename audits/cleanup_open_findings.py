@@ -1,0 +1,1 @@
+../../lyra/core/cleanup_open_findings.py

@@ -1,0 +1,1 @@
+../../lyra/core/copilot-fix.ts

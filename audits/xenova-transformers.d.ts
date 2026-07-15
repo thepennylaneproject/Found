@@ -1,0 +1,1 @@
+../../lyra/core/xenova-transformers.d.ts

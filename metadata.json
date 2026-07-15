@@ -1,0 +1,6 @@
+{
+  "name": "Found",
+  "description": "Stop looking. Start being found. A curated, quiz-first dating platform built for user success.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
